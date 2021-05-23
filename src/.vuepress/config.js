@@ -27,7 +27,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: 'https://github.com/Devartsite/dftps.github.io',
+    repo: 'https://github.com/Devartsite/dftps-guide',
     editLinks: true,
     docsDir: 'src',
     docsBranch: 'main',
