@@ -1,0 +1,24 @@
+{
+  "name": "dftps-guide",
+  "version": "0.0.1",
+  "description": "DFtpS (Deno Ftp Server) is an deno ftp server but also a deno module to create your own ftp server.",
+  "main": "index.js",
+  "authors": {
+    "name": "MNLaugh",
+    "email": "contact@devartsite.com"
+  },
+  "repository": "https://github.com/DevArtSite/dftps.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-theme-yuu": "^2.3.0"
+  },
+  "dependencies": {
+    "vuepress-theme-default-prefers-color-scheme": "^2.0.0",
+    "vuepress-theme-yuu": "^2.3.0"
+  }
+}
